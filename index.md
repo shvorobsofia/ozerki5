@@ -7,4 +7,4 @@ layout: default
 
 # Контакты
 - email: soniashv23@gmail.com
-- telegram: [<fshv23>](https://t.me/<fshv23>)
+- telegram: [fshv23](https://t.me/<fshv23>)
